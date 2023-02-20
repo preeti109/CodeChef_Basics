@@ -1,0 +1,10 @@
+class Codechef
+{
+	public static void main (String[] args)
+	{
+		char a = 'C';
+		String b = "Chef";
+		System.out.print(a);
+		System.out.print(b);
+	}
+}
